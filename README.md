@@ -9,6 +9,10 @@
 - HTML (один файл): [`book/build/nutriciologiya-dlya-sportsmeniv.html`](book/build/nutriciologiya-dlya-sportsmeniv.html)
 - Markdown (один файл): [`book/build/nutriciologiya-dlya-sportsmeniv.md`](book/build/nutriciologiya-dlya-sportsmeniv.md)
 
+## Онлайн-тест
+
+[`quiz/index.html`](quiz/index.html) — інтерактивний тест за книгою: 103 питання, тести по кожному модулю, підсумковий іспит (30 питань, прохідний бал 80 %), пояснення до кожної відповіді та розбір помилок. Відкривається в будь-якому браузері.
+
 ## Структура
 
 | Файл | Розділ |
